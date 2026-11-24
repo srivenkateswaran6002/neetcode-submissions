@@ -1,0 +1,1 @@
+select distinct customer_id from customers where revenue > 0 ;
